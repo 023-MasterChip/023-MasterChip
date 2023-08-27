@@ -101,9 +101,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/023-MasterChip/023-MasterChip/output/snake.svg" alt="Snake animation" />
-
-###
